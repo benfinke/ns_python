@@ -1,6 +1,7 @@
 License.txt
 MANIFEST.in
 readme_start.txt
+setup.cfg
 setup.py
 doc/getting_started_guide_python.pdf
 doc/html/.buildinfo
